@@ -1,0 +1,10 @@
+* trestrul
+
+Tiny utilities for TREe-STRUctured-List.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/trestrul.git   |
+| commit  | 3f3c7df  |
+| systems | trestrul |
+|---------+-------------------------------------------|
+
